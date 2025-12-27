@@ -1,7 +1,9 @@
 Thank you for choosing M&M's Dark Web Directory (MMDWD for short)
 
-New v1.0.1 update is out for the first time right now. Check it out!
-(Update includes clickable links, New section,sections will be in seperate pages, new site logo,New Cool Backround, and a lot more links!)
+v1.0.2 update coming later today! (December 27, 2025)
+This update will include:
+- a new section
+- a button on the pages for the sections that brings you back to the homepage
 
 New updates twice per week!
 
