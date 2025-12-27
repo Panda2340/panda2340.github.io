@@ -1,59 +1,12 @@
-﻿<!DOCTYPE html> 
-<html>
-<head>
-<style>
-body{
-        background-color: forestgreen
-}
-</style>
-</head>
-</html>
+Thank you for choosing M&M's Dark Web Directory (MMDWD for short)
 
+New v1.0.1 update is out for the first time right now. Check it out!
+(Update includes clickable links, New section,sections will be in seperate pages, new site logo,New Cool Backround, and a lot more links!)
 
-<html>
-<body>
+If you're having trouble finding and opening the file to run MMDWD, follow these steps:
 
-<title>M&M's Dark Web Directory</title>
-<img src="logo.png" alt=" "--">
-<h1>M&M's Dark Web Directory </h1> <!-- title for website -->
-
-<br>
-<p>Note: The creators of this directory are not responsible for any harm caused through the dark web sites listed in this directory. Please use the dark web at your own risk. </p>
-<br>
-<p>Last Updated: 12/26/2025 - you may not find everything in this directory, but as it gets updated more links will be added.</p>
-<p>v1.0.1</p>
-<br>
-<p>Choose the category of Dark Web sites that you would like to see the links for.</p>
-<a href=sPages\advice.html>Advice</a>
-<br>
-<a href=sPages\DPS.html>Directories, Portals, and Search Engines</a>
-<br>
-<a href=sPages\SM.html>Dark Web Social Media</a>
-<br>
-<a href=sPages\chatrooms.html>Chatrooms</a>
-<br>
-<a href=sPages\dwns.html>Dark Web News Sites</a>
-<br>
-<a href=sPages\libArchives.html>Libraries and Book Archives</a>
-<br>
-<a href=sPages\RIOL.html>Random Interesting Onion Links</a>
-
-
-
-
-
-
-
-
-
-</body>
-</html>
-
-
-
-
-
-
-
-
-
+1. Download the .zip file from GitHub
+2. In your files app, locate the file in the download location
+3. Extract the .zip file
+4. Once you've extracted the zip file, open it and open the folder inside the zip folder.
+5. Run MMDWD101.html
