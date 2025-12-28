@@ -1,14 +1,14 @@
 Thank you for choosing M&M's Dark Web Directory (MMDWD for short)
 
-v1.0.2 update coming later today! (December 27, 2025)
+v1.0.2 Update Drops in 45 minutes! (December 27, 2025)
 This update will include:
 - 2 new sections
 - a button on the pages for the sections that brings you back to the homepage
-- minor bug fix with page titles
-- link of the week
-- Old v2 links we added are being taken down (accident we made)
+- minor bug fixes
+- onion link of the week
+- Old v2 links we added are being taken down (accident we made, only v3 links will now be shown).
 
-New updates twice per week!
+New updates twice per week! (or more depending on if we decide to)
 
 If you're having trouble finding and opening the file to run MMDWD, follow these steps:
 
